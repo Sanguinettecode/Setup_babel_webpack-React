@@ -1,0 +1,19 @@
+.header{
+  height: 65px;
+  background-color: #4A90E2;
+  display: block;
+  padding: 20px 40px;
+  color: white
+}
+.logo{
+ max-width: 100%; 
+}
+.perfil{
+  float: right;
+  display: flex;
+}
+.perfil p{
+  padding: 0 10px;
+  align-self: center;
+  font-weight: 600
+}

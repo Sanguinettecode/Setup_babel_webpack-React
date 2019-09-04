@@ -1,0 +1,14 @@
+.comment{
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  align-items: flex-start
+}
+.content-comment{
+  background-color: #EEEEEE;
+  border-radius: 20px;
+  padding: 15px 10px
+}
+strong.name{
+  margin-right: 10px;
+}
